@@ -11,7 +11,7 @@ Features & Milestones:
 4. Offering an affordable subscription based program for weekly recipe updates (sign up/log in features).
    - The list of recipes will be sorted and will appear to the user based on their choice on step-2.
 5. Creating a payment system.
-6. Localizing the app.
+6. Localizing the app (available in: English, French, Japanese(maybe)).
 
 Platform: Web and/or Android (to be decided)
 
