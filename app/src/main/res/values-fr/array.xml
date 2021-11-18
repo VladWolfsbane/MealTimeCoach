@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="diets_array">
+        <item>
+            Équilibré
+        </item>
+        <item>
+            Végétalien
+        </item>
+        <item>
+            Paléo
+        </item>
+    </array>
+
+    <array name="age_group_array">
+        <item>
+            Moins de 18 ans
+        </item>
+        <item>
+            18 - 30
+        </item>
+        <item>
+            Plus de 30
+        </item>
+    </array>
+
+    <array name="goal_array">
+        <item>
+            Manger sainement
+        </item>
+        <item>
+            Perdre du poids
+        </item>
+    </array>
+
+</resources>

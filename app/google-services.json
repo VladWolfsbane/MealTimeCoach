@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70667471417",
+    "project_id": "mealtime-coach",
+    "storage_bucket": "mealtime-coach.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70667471417:android:634cee9dd4e22f0ebf9be8",
+        "android_client_info": {
+          "package_name": "com.application.mealtimecoach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70667471417-vsvt6ec9vk3skh4b98e47pvc57u15rvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg2PgHHule4nogLipviO2m-PrGzl3s8H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70667471417-vsvt6ec9vk3skh4b98e47pvc57u15rvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

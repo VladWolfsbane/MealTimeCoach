@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="diets_array">
+        <item>
+            Balanced
+        </item>
+        <item>
+            Vegan
+        </item>
+        <item>
+            Paleo
+        </item>
+    </array>
+
+    <array name="age_group_array">
+        <item>
+            Below 18
+        </item>
+        <item>
+            18 - 30
+        </item>
+        <item>
+            Over 30
+        </item>
+    </array>
+
+    <array name="goal_array">
+        <item>
+            Eating Healthy
+        </item>
+        <item>
+            Losing Weight
+        </item>
+    </array>
+
+</resources>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".ui.activities.auth.GetStartedOrLoginActivity">
+
+    <ImageView
+        android:id="@+id/top_logo"
+        android:layout_width="match_parent"
+        android:layout_height="300sp"
+        android:contentDescription="@string/img_desc"
+        android:scaleType="centerCrop"
+        android:src="@drawable/logo" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/top_logo"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/top_curved_shape"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20sp"
+            android:fontFamily="@font/quicksand_bold"
+            android:gravity="center"
+            android:text="@string/app_name"
+            android:textColor="@color/white"
+            android:textSize="28sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/login_card_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30sp"
+                android:layout_marginRight="30sp"
+                app:cardBackgroundColor="@color/black"
+                app:cardCornerRadius="24sp"
+                app:cardElevation="6sp"
+                app:contentPadding="14sp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/quicksand_bold"
+                    android:gravity="center"
+                    android:text="@string/login"
+                    android:textColor="@color/white"
+                    android:textSize="20sp" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/get_started_card_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30sp"
+                android:layout_marginTop="10sp"
+                android:layout_marginRight="30sp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="24sp"
+                app:cardElevation="6sp"
+                app:contentPadding="14sp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/quicksand_bold"
+                    android:gravity="center"
+                    android:text="@string/get_started"
+                    android:textColor="@color/black"
+                    android:textSize="20sp" />
+
+            </androidx.cardview.widget.CardView>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

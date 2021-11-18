@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MealTime Coach</string>
+    <string name="img_desc">Img Desc</string>
+    <string name="get_started">Commencer</string>
+    <string name="or">Ou</string>
+    <string name="login">Connexion</string>
+    <string name="name">votre nom</string>
+    <string name="signup">Inscrivez-vous</string>
+    <string name="email">E-mail</string>
+    <string name="password">Mot de passe</string>
+    <string name="logout">Se déconnecter</string>
+    <string name="diet">Diète</string>
+    <string name="age">Âge</string>
+    <string name="goal">But</string>
+    <string name="loading">Chargement</string>
+    <string name="recipes">Recettes</string>
+    <string name="done">Terminé</string>
+    <string name="total_amount">Le montant total est €2.99</string>
+    <string name="credit_card_number">Numéro de Carte de Crédit</string>
+    <string name="credit_card_date">Date de la carte de crédit</string>
+    <string name="cvv">CVV</string>
+    <string name="what_should_we_call_you">Comment devons-nous vous appeler ?</string>
+    <string name="please_select_dietary_preference">Veuillez sélectionner votre préférence alimentaire :</string>
+    <string name="please_select_age_group">Veuillez sélectionner votre tranche d\'âge :</string>
+    <string name="what_is_goal">Quel est ton but?</string>
+</resources>
