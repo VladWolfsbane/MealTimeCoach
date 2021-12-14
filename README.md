@@ -11,8 +11,12 @@ Features & Milestones:
 4. Offering an affordable subscription based program for weekly recipe updates (sign up/log in features).
    - The list of recipes will be sorted and will appear to the user based on their choice on step-2.
 5. Creating a payment system.
-6. Localizing the app (available in: English, French, Japanese(maybe)).
+6. Localizing the app (available in: English, French).
 
 Platform: Web and/or Android (to be decided)
 
 How to run:
+1. Download the code from https://github.com/VladWolfsbane/MealTimeCoach
+2. Open via android studio
+3. Build gradle
+4. And run via a virtual device (or physical device with dev tools and usb debugger enabled)
